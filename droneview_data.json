@@ -1,6 +1,10 @@
 [
   {
-    "title": "Drone View 1x",
+    "title": "Select Drone View Size",
+    "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Images/drv_1.png",
+    "downloadUrl": ""
+  },
+  { "title": "Drone View 1x",
     "image": "https://raw.githubusercontent.com/dhiiizt/dhiiizt/refs/heads/main/Images/drv_1.png",
     "downloadUrl": "https://github.com/dhiiizt/dhiiizt/raw/refs/heads/main/ML%20ToolKit/DroneviewN/v1.zip"
   },
